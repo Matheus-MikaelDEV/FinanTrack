@@ -28,35 +28,6 @@ src/
 └── entities/enums/
     └── Category.java         # Enum com as categorias de despesas
 ```
-
-## 🚀 Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/controle-despesas-java.git
-   cd controle-despesas-java
-   ```
-
-2. Compile os arquivos Java:
-   ```bash
-   javac application/Program.java
-   ```
-
-3. Execute o programa:
-   ```bash
-   java application.Program
-   ```
-
-> Certifique-se de estar usando o **JDK 8 ou superior**.
-
-## 🧠 Conceitos Utilizados
-
-- Encapsulamento e separação de responsabilidades
-- Enumeração (`enum`) para categorias
-- Manipulação de datas com `SimpleDateFormat`
-- Uso de listas dinâmicas (`ArrayList`)
-- Estrutura de menu interativo no terminal
-
 ## 📌 Exemplo de Uso
 
 ```
